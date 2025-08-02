@@ -1,4 +1,5 @@
 # 📝 blog_web_react
+<img src="https://drive.google.com/uc?export=view&id=1w74TpnB1FhfIohSo08TqFlicKpRhQQnW" alt="Project Preview" width="100%" />
 
 ## Blog Post Management & Publishing Dashboard
 
