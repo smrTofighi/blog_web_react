@@ -40,9 +40,9 @@ git clone https://github.com/smrTofighi/blog_web_react.git
 cd blog_web_react
 npm install
 npm run dev
+```
 
 
-------------------------------------------------------------
 # 📝 blog_web_react
 
 ## 🇮🇷 توضیحات فارسی
@@ -76,3 +76,4 @@ git clone https://github.com/smrTofighi/blog_web_react.git
 cd blog_web_react
 npm install
 npm run dev
+```
